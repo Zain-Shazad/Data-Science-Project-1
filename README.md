@@ -1,4 +1,4 @@
-# Titanic Data Analysis
+# Basic EDA on Titanic Dataset
 
 This project is a beginner-friendly exploratory data analysis (EDA) on the Titanic dataset.
 
