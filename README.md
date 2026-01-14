@@ -1,4 +1,4 @@
-# Basic EDA on Titanic Dataset
+# My First Data Science Practice Project (Basic EDA on Titanic Dataset)
 
 This project is a beginner-friendly exploratory data analysis (EDA) on the Titanic dataset.
 
